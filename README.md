@@ -25,7 +25,7 @@ April 2019 - Present
 - Cloud-native and 'serverless' application development and infrastructure.
 - Integrated and automated code analysis into developer workflow and pipeline.
 
-  _Key technology and skills: AWS (Lambda, CloudFront, S3, IAM, RDS, API Gateway, more), Elastic.co(ELK), Consul/Vault, Jenkins, GitHub Actions, TravisCI, Docker, Traefik, Terraform, Ansible, Python, Bash, HAProxy more._
+  _Key technology and skills: AWS (ECS, Lambda, CloudFront, S3, IAM, RDS, API Gateway, more), Elastic.co(ELK), Consul/Vault, Jenkins, GitHub Actions, TravisCI, Docker, Docker-Swarm, Traefik, Terraform, Ansible, Python, Bash, HAProxy more._
 
 ### Lead Sysadmin/DevOps Engineer at Renxo (renxo.com)
 
